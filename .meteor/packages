@@ -19,3 +19,4 @@ shell-server@0.4.0            # Server-side component of the `meteor shell` comm
 angular-templates
 accounts-password
 dotansimha:accounts-ui-angular
+practicalmeteor:mocha
